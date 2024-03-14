@@ -7,8 +7,8 @@ Class period 1: https://colab.research.google.com/github/tohnperfect/data_viz/bl
 Class period 2, 3: https://colab.research.google.com/github/tohnperfect/data_viz/blob/main/Function_Loop_Condition.ipynb<br />
 Class period 4, 5: https://github.com/tohnperfect/data_viz/blob/main/More_advanced_data_structure.ipynb<br />
 Class period 6, 7, 8: https://github.com/tohnperfect/data_viz/blob/main/Pandas_101.ipynb<br />
-Class period 9, 10: https://github.com/tohnperfect/data_viz/blob/main/Pandas102.ipynb
-
+Class period 9, 10: https://github.com/tohnperfect/data_viz/blob/main/Pandas102.ipynb<br />
+Class period 11: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Table_Data_(01).ipynb
 
 #### Link instructional video ####
 
@@ -21,4 +21,5 @@ Class period 6: https://www.facebook.com/tohnperfect/videos/10157909571913316/?i
 Class period 7: https://www.facebook.com/tohnperfect/videos/10157922148908316?idorvanity=891869558222262<br />
 Class period 8: https://www.facebook.com/tohnperfect/videos/10157930563803316?idorvanity=891869558222262<br />
 Class period 9: https://www.facebook.com/tohnperfect/videos/10157944584618316?idorvanity=891869558222262<br />
-Class period 10: https://www.facebook.com/tohnperfect/videos/10157961429308316/?idorvanity=891869558222262
+Class period 10: https://www.facebook.com/tohnperfect/videos/10157961429308316/?idorvanity=891869558222262<br />
+Class period 11: https://www.facebook.com/tohnperfect/videos/10157996092583316?idorvanity=891869558222262<br />
