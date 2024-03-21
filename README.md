@@ -9,7 +9,8 @@ Class period 4, 5: https://github.com/tohnperfect/data_viz/blob/main/More_advanc
 Class period 6, 7, 8: https://github.com/tohnperfect/data_viz/blob/main/Pandas_101.ipynb<br />
 Class period 9, 10: https://github.com/tohnperfect/data_viz/blob/main/Pandas102.ipynb<br />
 Class period 11: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Table_Data_(01).ipynb<br />
-Class period 12, 13, 14, 15: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Data_Distribution_(02).ipynb
+Class period 12, 13, 14, 15: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Data_Distribution_(02).ipynb<br />
+Class period 16: https://github.com/tohnperfect/data_viz/blob/main/Quiz_5.ipynb
 
 #### Link instructional video ####
 
@@ -27,4 +28,5 @@ Class period 11: https://www.facebook.com/tohnperfect/videos/10157996092583316?i
 Class period 12: https://www.facebook.com/tohnperfect/videos/10158012391913316/?idorvanity=891869558222262<br />
 Class period 13: https://www.facebook.com/tohnperfect/videos/10158024960213316/?idorvanity=891869558222262<br />
 Class period 14: https://www.facebook.com/tohnperfect/videos/10158037500323316?idorvanity=891869558222262<br />
-Class period 15: https://www.facebook.com/tohnperfect/videos/10158041653753316?idorvanity=891869558222262
+Class period 15: https://www.facebook.com/tohnperfect/videos/10158041653753316?idorvanity=891869558222262<br />
+Class period 16: https://www.facebook.com/tohnperfect/videos/10158051961013316?idorvanity=891869558222262
