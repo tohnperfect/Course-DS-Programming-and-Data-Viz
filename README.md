@@ -37,4 +37,5 @@ Class period 17: https://www.facebook.com/tohnperfect/videos/10158055678073316?i
 Class period 18: https://www.facebook.com/tohnperfect/videos/10158070007898316/?idorvanity=891869558222262<br />
 Class period 17.5: https://www.facebook.com/tohnperfect/videos/10158078691423316/?idorvanity=891869558222262<br />
 Class period 19: https://www.facebook.com/tohnperfect/videos/10158090932293316/?idorvanity=891869558222262<br />
-Class period 20: https://www.facebook.com/tohnperfect/videos/10158091250098316?idorvanity=891869558222262
+Class period 20: https://www.facebook.com/tohnperfect/videos/10158091250098316?idorvanity=891869558222262<br />
+Class period 21: https://www.facebook.com/tohnperfect/videos/10158094341528316?idorvanity=891869558222262
