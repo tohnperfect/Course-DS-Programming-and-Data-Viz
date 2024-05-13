@@ -13,7 +13,8 @@ Class period 12, 13, 14, 15: https://github.com/tohnperfect/data_viz/blob/main/V
 Class period 16: https://github.com/tohnperfect/data_viz/blob/main/Quiz_5.ipynb<br />
 Class period 18: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Data_Comparison.ipynb<br />
 Class period 17.5: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Data_Distribution_(PCA).ipynb<br />
-Class period 19, 20: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Data_Comparison.ipynb
+Class period 19, 20: https://github.com/tohnperfect/data_viz/blob/main/Visualize_Data_Comparison.ipynb<br />
+Chapter 8: https://github.com/tanpharamut/data_viz/blob/main/Chapter8_Timeline_Chart_Candlestick_Chart_CSD.ipynb
 
 #### Link instructional video ####
 
