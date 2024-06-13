@@ -2,7 +2,8 @@
 Basic Programming and Data Visualization for Data Scientist [Course Repository]
 
 โดย ผศ. ดร.ธนพงศ์ อินทระ สาขาวิชาสถิติ มหาวิทยาลัยขอนแก่น
-by Assistance Professor Dr.Thanapong Intharah [personal website](https://vi-lab-th.github.io)
+
+by Assistance Professor Dr.Thanapong Intharah [(webpage)](https://vi-lab-th.github.io)
 
 #### Link Google Colab ####
 
