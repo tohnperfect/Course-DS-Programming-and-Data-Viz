@@ -1,9 +1,9 @@
 # Course-DS-Programming-and-Data-Viz
-Basic Programming and Data Visualization for Data Scientist [Course Repository]
+Basic Programming for Data Scientists and Data Visualization [Course Repository]
 
 โดย ผศ. ดร.ธนพงศ์ อินทระ สาขาวิชาสถิติ มหาวิทยาลัยขอนแก่น
 
-by Assistance Professor Dr.Thanapong Intharah [(webpage)](https://vi-lab-th.github.io)
+by Assistance Professor Dr.Thanapong Intharah [(personal webpage)](https://vi-lab-th.github.io)
 
 #### Link Google Colab ####
 
