@@ -22,7 +22,6 @@ Chapter 8: https://github.com/tanpharamut/data_viz/blob/main/Chapter8_Timeline_C
 
 #### Link instructional video ####
 
-<<<<<<< HEAD
 **Class period 1 Basic python:** https://youtu.be/A74LfXUuWUU<br />
 **Class period 2 Function-Loop:** https://youtu.be/b3_mqAe2g4o<br />
 **Class period 3 Loop function:** https://youtu.be/cvgU2VxlzuA<br />
@@ -44,7 +43,7 @@ Chapter 8: https://github.com/tanpharamut/data_viz/blob/main/Chapter8_Timeline_C
 **Class period 19 Stacked Bar Chart & Histogram:** https://youtu.be/44EMQs50Gwg<br />
 **Class period 20 Histograme - Radar Chart:** https://youtu.be/Vjn0VJ1XRHE<br />
 **Class period 21 Dashboard with Google Data Studio:** https://youtu.be/62KBS5krz8M
-=======
+
 Class period 1: https://www.facebook.com/tohnperfect/videos/10157869192673316?idorvanity=891869558222262<br />
 Class period 2: https://www.facebook.com/tohnperfect/videos/10157873135448316?idorvanity=891869558222262<br />
 Class period 3: https://www.facebook.com/tohnperfect/videos/10157884013698316/?idorvanity=891869558222262<br />
