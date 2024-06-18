@@ -30,9 +30,9 @@ Class period 5 Numpy functions: https://youtu.be/CW50Lchmo6c<br />
 Class period 6 Pandas Basic + Slicing: https://youtu.be/9hNV9aBDrks<br />
 Class period 7 Pandas แก้ไข missing + iterrows: https://youtu.be/ie5hwKbhCsM<br />
 Class period 8 วนลูปตาราง + ฟังก์ชั่นพิเศษ: https://youtu.be/Z1m2C9c0rH0<br />
-Class period 9 การต่อตารางแกน X-Y และ HW7: https://www.facebook.com/tohnperfect/videos/10157944584618316?idorvanity=891869558222262<br />
+Class period 9 การต่อตารางแกน X-Y และ HW7: https://youtu.be/NXQWYOduNTI<br />
 Class period 10 จบการจัดการข้อมูลตารางด้วย pandas: https://youtu.be/VfPsDelwLzQ<br />
-Class period 11 Visualize Table Data: https://www.facebook.com/tohnperfect/videos/10157996092583316?idorvanity=891869558222262<br />
+Class period 11 Visualize Table Data: https://youtu.be/L9ZN-gts6l8<br />
 Class period 12 Scatter 01: https://youtu.be/H3kVb-2-Av8<br />
 Class period 13 Scatter 02: https://youtu.be/k42VHx-4jOc<br />
 Class period 14 จบ Scatter - Bubble Chart: https://youtu.be/uMgZfLHvNhA<br />
