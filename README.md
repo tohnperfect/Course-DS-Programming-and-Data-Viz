@@ -41,7 +41,7 @@ Class period 16 Datetime - Timestamp: https://youtu.be/Aw_QOmM1EkU<br />
 Class period 17 PCA plot: https://youtu.be/uSTa4xWlpCY<br />
 Class period 18 Bar chart - Grouped Bar chart: https://youtu.be/yKJf4nlN0Ig<br />
 Class period 19 Stacked Bar Chart & Histogram: https://youtu.be/44EMQs50Gwg<br />
-Class period 20 Histograme - Radar Chart: https://youtu.be/Vjn0VJ1XRHE<br />
+Class period 20 Histogram - Radar Chart: https://youtu.be/Vjn0VJ1XRHE<br />
 Class period 21 Dashboard with Google Data Studio: https://youtu.be/62KBS5krz8M
 
 ### More videos from class of 2022
